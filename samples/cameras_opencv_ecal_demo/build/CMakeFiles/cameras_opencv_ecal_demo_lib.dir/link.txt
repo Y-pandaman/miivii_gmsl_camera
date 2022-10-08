@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcameras_opencv_ecal_demo_lib.a  CMakeFiles/cameras_opencv_ecal_demo_lib.dir/message/sensor/image.pb.cc.o
+/usr/bin/ranlib libcameras_opencv_ecal_demo_lib.a

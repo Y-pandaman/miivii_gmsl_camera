@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package proto_messages;
+
+message OpencvImage{
+    int32 rows = 1;
+    int32 cols = 2;
+    int32 elt_type = 3;
+    bytes mat_data = 4;
+}
